@@ -50,6 +50,7 @@
 }
 
 .header__subtitle {
+  margin: 0px;
   position: absolute;
   left: 64px;
   bottom: 30px;
@@ -318,7 +319,7 @@
   width: 877px;
   height: 877px;
   position: absolute;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   background-size: cover;
   top: 0px;
   right: -210px;
@@ -365,6 +366,7 @@
 }
 
 .footer__author {
+  margin: 0;
   padding: 18px 0px;
   font-size: 18px;
   line-height: 25px;

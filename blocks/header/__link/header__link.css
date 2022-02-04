@@ -1,0 +1,12 @@
+.header__link {
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+
+.header__link::after {
+  content: "\2192";
+}
+
+.header__link:hover {
+  opacity: 0.4;
+}

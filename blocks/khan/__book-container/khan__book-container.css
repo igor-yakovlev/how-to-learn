@@ -2,4 +2,5 @@
   margin-top: 68px;
   display: flex;
   height: 608px;
+  align-items: flex-start;
 }
